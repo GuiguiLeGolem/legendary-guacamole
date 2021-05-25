@@ -70,10 +70,7 @@ CREATE TABLE IF NOT EXISTS `client` (
 --
 
 INSERT INTO `client` (`idClient`, `nomClient`, `prenomClient`, `emailClient`, `motDePasseClient`, `rueClient`, `cpClient`, `villeClient`, `telClient`) VALUES
-(4, 'MANSUTTI', 'Guillaume', 'guillaume-mansutti@outlook.fr', '$2y$10$XQzmsgkS9arR3OL12ZsOsegoAA4kQO9zxSKZ9xVL5gJEPkrdUtREy', '28.A Rue Principale', '57690', 'MARANGE ZONDRANGE', '0683583822'),
-(5, 'Caca', 'miam', 'miamgroscaca@gmail.com', '$2y$10$HgC7T.9He9uwykAX6EM.IOOvUO8VgUX6eCWAX58iitDuVJcgIaIJy', 'Poubelle', '55000', 'caca', '0707070707'),
-(6, 'jean', 'mi', 'jeamidu13@gmail.com', '$2y$10$aI1c6GLow322i33o3c3qTOxitlxYYvhYcYFV3tri7TdgELbWRShAu', 'corbeille', '55000', 'Bar Le Miam', '0784578748'),
-(7, 'Arouf', 'Gangsta', 'whaaaaaouuuu@gmail.com', '$2y$10$b.XEiW04oOyjk1Huch2zO.NZ7dI/qShjQXN/X2Dq4JfvzBPurLXDS', '4 rue du miam', '55000', 'Bar Le Duc', '0781614155');
+(4, 'MANSUTTI', 'Guillaume', 'guillaume-mansutti@outlook.fr', '$2y$10$XQzmsgkS9arR3OL12ZsOsegoAA4kQO9zxSKZ9xVL5gJEPkrdUtREy', '28.A Rue Principale', '57690', 'MARANGE ZONDRANGE', '0683583822');
 
 -- --------------------------------------------------------
 
