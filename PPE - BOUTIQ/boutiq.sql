@@ -70,7 +70,8 @@ CREATE TABLE IF NOT EXISTS `client` (
 --
 
 INSERT INTO `client` (`idClient`, `nomClient`, `prenomClient`, `emailClient`, `motDePasseClient`, `rueClient`, `cpClient`, `villeClient`, `telClient`) VALUES
-(4, 'MANSUTTI', 'Guillaume', 'guillaume-mansutti@outlook.fr', '$2y$10$XQzmsgkS9arR3OL12ZsOsegoAA4kQO9zxSKZ9xVL5gJEPkrdUtREy', '28.A Rue Principale', '57690', 'MARANGE ZONDRANGE', '0683583822');
+(4, 'MANSUTTI', 'Guillaume', 'guillaume-mansutti@outlook.fr', '$2y$10$XQzmsgkS9arR3OL12ZsOsegoAA4kQO9zxSKZ9xVL5gJEPkrdUtREy', '28.A Rue Principale', '57690', 'MARANGE ZONDRANGE', '0683583822'),
+(8, 'CASTEX', 'Jean', 'JC@covid.fr', '$2y$10$NxDeBawdG0REag00rNqi8.DetKO0ATrNp55SUuGLEEVn5paE/jI/C', '04 Rue Phillipe ', '75116', 'Paris', '');
 
 -- --------------------------------------------------------
 
