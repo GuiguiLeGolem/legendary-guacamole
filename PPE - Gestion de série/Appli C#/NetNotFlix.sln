@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNotFlix.Android", "NetNotFlix\NetNotFlix.Android\NetNotFlix.Android.csproj", "{E1F9F509-2F28-47E9-A969-CE940EC699BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNotFlix", "NetNotFlix\NetNotFlix\NetNotFlix.csproj", "{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F9F509-2F28-47E9-A969-CE940EC699BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F9F509-2F28-47E9-A969-CE940EC699BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F9F509-2F28-47E9-A969-CE940EC699BB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E1F9F509-2F28-47E9-A969-CE940EC699BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F9F509-2F28-47E9-A969-CE940EC699BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F9F509-2F28-47E9-A969-CE940EC699BB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBCCEF6-CB20-4831-81F7-F9B4B22E38CE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A96CF51-CFAC-4A28-81BF-6258734E1675}
+	EndGlobalSection
+EndGlobal

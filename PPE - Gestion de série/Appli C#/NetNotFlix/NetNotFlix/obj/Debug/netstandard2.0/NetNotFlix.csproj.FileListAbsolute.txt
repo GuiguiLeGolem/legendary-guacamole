@@ -1,0 +1,15 @@
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\NetNotFlix.deps.json
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\NetNotFlix.dll
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\ref\NetNotFlix.dll
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\NetNotFlix.pdb
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\PageSaisonANDEpisode.xaml.g.cs
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.AssemblyInfoInputs.cache
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.AssemblyInfo.cs
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.csproj.CoreCompileInputs.cache
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\XamlC.stamp
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.dll
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\ref\NetNotFlix.dll
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.pdb
+D:\_GuillaumeMansutti\Programmes\XAMARIN\NetNotFlix\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.csprojAssemblyReference.cache
