@@ -19,9 +19,13 @@ body {
     margin-right: unset;
 }
 
-a.dropdown-item{
+.col a.dropdown-item{
     display: unset;
     padding: unset;
+}
+
+.col a.dropdown-item:hover p.text-break{
+    text-decoration: underline;
 }
 
 .row-cols-3>*{

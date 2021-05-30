@@ -262,9 +262,9 @@ class vue {
 			echo'
 				<tr>
 					<th scope="row">'.$articles[1].'</th>
-					<td>'.$articles[2].'</td>
+					<td>'.$articles[2].'€</td>
 					<td>'.$articles[3].'</td>
-					<td>'.($articles[2]*$articles[3]).'</td>
+					<td>'.($articles[2]*$articles[3]).'€</td>
 					<td><button type="submit" class=\"btn btn-primary\" name="supprimer" value="'.$articles[0].'">Supprimer</button></th>
 				</tr>
 			';
