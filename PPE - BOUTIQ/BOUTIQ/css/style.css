@@ -13,12 +13,39 @@ body {
     box-shadow: 0px 0px 3px #555;
     width:80%;
 }
-img{
-    max-width: 100%;
+
+.row{
+    margin-left: unset;
+    margin-right: unset;
 }
+
+a.dropdown-item{
+    display: unset;
+    padding: unset;
+}
+
+.row-cols-3>*{
+    max-width: unset;
+}
+
+.card{
+    width: 18rem;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.card-img-top {
+    width: 16rem;
+    margin: auto;
+}
+
 .dropdown-item p{
     white-space:normal;
 }
+
 div#grilleProduit div.col{
     display:flex;
     flex-direction: column;

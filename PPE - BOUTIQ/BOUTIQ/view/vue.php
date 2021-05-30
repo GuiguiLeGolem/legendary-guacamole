@@ -204,42 +204,37 @@ class vue {
 				<div class="row row-cols-2">
 					<div class="col" >
 						<div class="row" style="margin-right: 1rem">
-						<img id="image" src="images/'.$infoArticle[4].'">
+							<img id="image" src="images/'.$infoArticle[4].'">
 						</div>
 					</div>
 					<div class="col">
 						<div class="row">	
-						<h2>'.$infoArticle[1].'</h2><br/><br/>
+							<h2>'.$infoArticle[1].'</h2><br/><br/>
 						</div>
 						<div class="row">	
-						<h2 style="color:red"> PRIX : '.$infoArticle[2].' €</h2>
+							<h2 style="color:red"> PRIX : '.$infoArticle[2].' €</h2>
 						</div>
 						<div class="row">	
-						Stock : '.$infoArticle[3].'<br/><br/>
+							Stock : '.$infoArticle[3].'<br/><br/>
 						</div>
 						<div class="row">	
-						<h3> Ajouter ce produit au panier : </h3>
-						<br/><br/>
+							<h3> Ajouter ce produit au panier : </h3><br/><br/>
 						</div>
 						<div class="row">	
-						<form name="prod" method="POST">
-						Quantité : <select name="quantite" class="form-control">';
+							<form name="prod" method="POST">
+								Quantité : <select name="quantite" class="form-control">';
 		for($i=1; $i<11; $i++){
 			echo '<option value="'.$i.'">'.$i.'</option>';			
 		}
 		echo '
-						</select><br/>
-						<input type="submit" class="btn btn-secondary btn-lg" name="ajoutPanier" value="Ajout Panier"></input>
-						</form>
-						<br/>'.$message.'
+								</select><br/>
+								<input type="submit" class="btn btn-secondary btn-lg" name="ajoutPanier" value="Ajout Panier"></input>
+							</form><br/>'.$message.'
 						</div>
 					</div>
 				</div>
-			</div>
-		';
+			</div>';
 		
-
-
 		$this->fin();
 	}
 
@@ -299,10 +294,10 @@ class vue {
 		foreach($lesArticles as $articles){
 			echo "<div class=\"col\">
 					<a class=\"dropdown-item\" href=\"index.php?action=produit&id=".$articles[0].'">
-						<div class="card" style="width: 18rem;">
-						  <img src="images/'.$articles[4].'" class="card-img-top" alt="Image"  style="height: 18rem;">
+						<div class="card">
+						  <img src="images/'.$articles[4].'" class="card-img-top" alt="Image">
 						  <div class="card-body">
-						    <p class="card-title text-break" style="height: 9rem;"><b>'.$articles[1].'</b></p>
+						    <p class="card-title text-break">'.$articles[1].'</p>
 						    <p class="card-text" style="color:red">PRIX : '.$articles[2].' €</p>
 						  </div>
 						</div>
