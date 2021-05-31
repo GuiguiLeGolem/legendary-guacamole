@@ -9,14 +9,16 @@ namespace RestAPI.Models
     public class SerieDAO
     {
         private MySqlConnection conn;
+
         public SerieDAO()
         {
             string myConnectionString;
-            myConnectionString = "server=172.19.0.18;uid=client;pwd=0550002D;database=NetNotFlix;";
+            myConnectionString = "server=localhost;uid=root;pwd=;database=NetNotFlix;";
             conn = new MySql.Data.MySqlClient.MySqlConnection();
             conn.ConnectionString = myConnectionString;
             conn.Open();
         }
+
         public List<Serie> getAllSeries()
         {
             List<Serie> lesSeries = new List<Serie>();
@@ -38,8 +40,5 @@ namespace RestAPI.Models
             MySqlCommand cmd = new MySqlCommand(requete, conn);
             cmd.ExecuteNonQuery();
         }
-
-        
-
     }
 }

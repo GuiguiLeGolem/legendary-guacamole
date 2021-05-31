@@ -14,9 +14,12 @@ namespace NetNotFlix
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class PageSaisonANDEpisode : ContentPage
     {
-        public PageSaisonANDEpisode(Serie serie)
+        public int idUser;
+
+        public PageSaisonANDEpisode(Serie serie, int id)
         {
             InitializeComponent();
+            idUser = id;
             OnLoad((Serie)serie);
             NavigationPage.SetHasNavigationBar(this, false);
         }
@@ -27,7 +30,18 @@ namespace NetNotFlix
             RestService rsrv = new RestService();
             comboBoxSaison.ItemsSource = await rsrv.loadAllSaison(serie.Id); //RestService.cs
             lePicker.ItemsSource = comboBoxSaison.ItemsSource;
+            lePicker.SelectedIndex = 0;
             MainGrid.Children.Add(lePicker);
+
+            //Charger les épisodes
+
+            
+        }
+
+        private void lePicker_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ListView listViewEpisodes = new ListView();
+            //listViewEpisodes.ItemsSource = await rsrv.loadEpisodesFromSaison((Saison)lePicker.Items[lePicker.SelectedIndex].IdSaison);
         }
     }
 }

@@ -7,7 +7,8 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword />
-    <_PublishTargetUrl>C:\inetpub\wwwroot\apiseries</_PublishTargetUrl>
+    <_PublishTargetUrl>http://192.168.43.52:8088/</_PublishTargetUrl>
+    <History>True|2021-05-31T21:09:12.0198687Z;True|2021-05-31T23:07:54.8247563+02:00;True|2021-05-31T23:01:07.0077505+02:00;True|2021-05-31T22:56:29.3992350+02:00;True|2021-05-31T22:52:18.8658871+02:00;True|2021-05-31T22:48:18.9038117+02:00;True|2021-05-31T22:45:49.0263960+02:00;True|2021-05-31T22:40:29.9435021+02:00;True|2021-05-31T22:39:05.2413610+02:00;True|2021-05-31T19:48:42.3453764+02:00;True|2021-05-31T19:45:27.2455427+02:00;True|2021-05-31T19:21:20.9942071+02:00;True|2021-05-31T18:56:27.4012390+02:00;True|2021-05-31T18:38:15.2879102+02:00;True|2021-05-31T17:32:06.5909444+02:00;True|2021-05-31T13:50:24.0688516+02:00;True|2021-05-31T13:29:23.8112315+02:00;True|2021-05-31T13:27:02.7699089+02:00;True|2021-05-31T13:24:30.4260879+02:00;True|2021-05-31T13:23:56.3643505+02:00;True|2021-05-31T13:06:16.9257065+02:00;True|2021-05-31T12:44:34.6254945+02:00;True|2021-05-31T12:39:47.8619637+02:00;True|2021-05-31T12:08:41.2158918+02:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
@@ -17,7 +18,7 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
       <publishTime>02/22/2013 08:43:40</publishTime>
     </File>
     <File Include="bin/BouncyCastle.Crypto.dll">
-      <publishTime>01/31/2019 19:53:56</publishTime>
+      <publishTime>08/11/2018 10:03:48</publishTime>
     </File>
     <File Include="bin/fr/System.Net.Http.Formatting.resources.dll">
       <publishTime>11/28/2018 12:00:48</publishTime>
@@ -29,7 +30,7 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
       <publishTime>11/28/2018 12:03:06</publishTime>
     </File>
     <File Include="bin/Google.Protobuf.dll">
-      <publishTime>02/16/2020 13:04:38</publishTime>
+      <publishTime>08/10/2018 18:51:54</publishTime>
     </File>
     <File Include="bin/K4os.Compression.LZ4.dll">
       <publishTime>07/03/2019 23:59:30</publishTime>
@@ -47,19 +48,19 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
       <publishTime>07/25/2012 11:48:56</publishTime>
     </File>
     <File Include="bin/MySql.Data.dll">
-      <publishTime>12/09/2020 00:51:12</publishTime>
+      <publishTime>12/03/2019 10:13:46</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>04/22/2019 01:06:16</publishTime>
     </File>
     <File Include="bin/Renci.SshNet.dll">
-      <publishTime>06/07/2020 14:33:52</publishTime>
+      <publishTime>10/16/2017 20:53:06</publishTime>
     </File>
     <File Include="bin/RestAPI.dll">
-      <publishTime>03/30/2021 17:21:35</publishTime>
+      <publishTime>05/31/2021 23:09:11</publishTime>
     </File>
     <File Include="bin/RestAPI.pdb">
-      <publishTime>03/30/2021 17:21:35</publishTime>
+      <publishTime>05/31/2021 23:09:11</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>08/08/2018 05:38:48</publishTime>
@@ -236,7 +237,7 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
       <publishTime>11/28/2018 12:59:46</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>11/02/2014 15:26:04</publishTime>
+      <publishTime>02/11/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
       <publishTime>11/28/2018 13:00:12</publishTime>
@@ -251,7 +252,7 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
       <publishTime>11/28/2018 13:04:24</publishTime>
     </File>
     <File Include="bin/Ubiety.Dns.Core.dll">
-      <publishTime>12/09/2020 00:49:58</publishTime>
+      <publishTime>12/03/2019 10:13:46</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>07/17/2013 17:03:52</publishTime>
@@ -260,25 +261,25 @@ en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https:
       <publishTime>12/09/2020 00:49:58</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>03/25/2021 08:14:15</publishTime>
+      <publishTime>03/25/2021 08:14:16</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>03/16/2021 15:52:43</publishTime>
+      <publishTime>03/16/2021 15:52:44</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>03/25/2021 08:14:11</publishTime>
+      <publishTime>03/25/2021 08:14:12</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>03/25/2021 08:14:14</publishTime>
+      <publishTime>03/25/2021 08:14:16</publishTime>
     </File>
     <File Include="Views/web.config">
-      <publishTime>03/25/2021 08:14:15</publishTime>
+      <publishTime>03/25/2021 08:14:16</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>03/25/2021 08:14:14</publishTime>
+      <publishTime>03/25/2021 08:14:16</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/25/2021 10:40:49</publishTime>
+      <publishTime>05/31/2021 13:50:23</publishTime>
     </File>
   </ItemGroup>
 </Project>

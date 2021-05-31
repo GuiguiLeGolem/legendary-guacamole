@@ -15,18 +15,12 @@ namespace NetNotFlix
         public App()
         {
             InitializeComponent();
-            
-            MainPage = new NavigationPage(new MainPage());
+            //MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new LogInUser());
         }
 
-        protected override async void OnStart()
+        protected override void OnStart()
         {
-            ObservableCollection<Serie> lesS = await AppelGet();
-            Debug.WriteLine("J'en récupère " + lesS.Count);
-            foreach (Serie c in lesS)
-            {
-                NetNotFlix.MainPage.lesSeries.Add(c);
-            }
         }
 
         protected override void OnSleep()
@@ -35,12 +29,6 @@ namespace NetNotFlix
 
         protected override void OnResume()
         {
-        }
-
-        public async static Task<ObservableCollection<Serie>> AppelGet()
-        {
-            RestService rsrv = new RestService();
-            return await rsrv.loadAllSeries();
         }
     }
 }

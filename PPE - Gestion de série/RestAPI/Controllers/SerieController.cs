@@ -23,8 +23,6 @@ namespace RestAPI.Controllers
             return lesSeries.ToList();
         }
 
-
-
         [HttpDelete]
         public string DeleteSerie(int id)
         {

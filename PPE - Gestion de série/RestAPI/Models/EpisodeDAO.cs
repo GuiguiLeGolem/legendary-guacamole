@@ -12,7 +12,7 @@ namespace RestAPI.Models
         public EpisodeDAO()
         {
             string myConnectionString;
-            myConnectionString = "server=172.19.0.18;uid=client;pwd=0550002D;database=NetNotFlix;";
+            myConnectionString = "server=localhost;uid=root;pwd=;database=NetNotFlix;";
             conn = new MySql.Data.MySqlClient.MySqlConnection();
             conn.ConnectionString = myConnectionString;
             conn.Open();

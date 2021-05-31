@@ -5,7 +5,23 @@
     <Grid BackgroundColor="#36393F" x:Name="MainGrid">
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
-        <Picker Grid.Row="0" x:Name="lePicker"></Picker>
+        <Picker Grid.Row="0" Title="Choisissez une saison" x:Name="lePicker" ItemDisplayBinding="{Binding NumSaison}" SelectedIndexChanged="lePicker_SelectedIndexChanged"></Picker>
+        <ListView Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid x:Name="LesEpisodes">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="0" Text="{Binding lePicker.ItemSelected.SortieSaison}"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </Grid>
 </ContentPage>

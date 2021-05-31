@@ -706,23 +706,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gmansutti\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Herotrix\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_GuillaumeMansutti\\Programmes\\XAMARIN\\NetNotFlix\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
+      "projectUniqueName": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
       "projectName": "NetNotFlix",
-      "projectPath": "D:\\_GuillaumeMansutti\\Programmes\\XAMARIN\\NetNotFlix\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
-      "packagesPath": "C:\\Users\\gmansutti\\.nuget\\packages\\",
-      "outputPath": "D:\\_GuillaumeMansutti\\Programmes\\XAMARIN\\NetNotFlix\\NetNotFlix\\NetNotFlix\\obj\\",
+      "projectPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
+      "packagesPath": "C:\\Users\\Herotrix\\.nuget\\packages\\",
+      "outputPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\gmansutti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Herotrix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -782,7 +785,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

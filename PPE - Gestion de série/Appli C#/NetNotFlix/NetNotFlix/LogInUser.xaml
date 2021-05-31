@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NetNotFlix.LogInUser">
+    <Grid BackgroundColor="#36393F" >
+        <Grid VerticalOptions="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Text=" Connexion" TextColor="White" FontSize="Large" VerticalTextAlignment="Center"/>
+            <Label Grid.Row="1" Grid.Column="0" Text="E-mail : " TextColor="White" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="End"/>
+            <Entry Grid.Row="1" Grid.Column="1" x:Name="emailUser" TextColor="White"/>
+            <Label Grid.Row="2" Grid.Column="0" Text="Mot de passe : " TextColor="White" VerticalTextAlignment="Center" FontSize="Medium" HorizontalTextAlignment="End"/>
+            <Entry Grid.Row="2" Grid.Column="1" x:Name="mdpUser" TextColor="White"/>
+            <Button Grid.Row="3" Grid.Column="1" Text="Se connecter" Pressed="Connexion"/>
+        </Grid>
+    </Grid>
+</ContentPage>

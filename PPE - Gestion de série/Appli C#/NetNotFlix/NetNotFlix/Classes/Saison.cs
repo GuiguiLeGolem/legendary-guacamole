@@ -8,6 +8,7 @@ namespace NetNotFlix.Classes
     {
         private int idSaison;
         private int numSaison;
+        private string strSaison;
         private string sortieSaison;
         private int idSerie;
 
@@ -17,11 +18,13 @@ namespace NetNotFlix.Classes
             this.numSaison = numSaison;
             this.sortieSaison = sortieSaison;
             this.idSerie = idSerie;
+            this.StrSaison = "Saison ";
         }
 
         public int IdSaison { get => idSaison; set => idSaison = value; }
         public int NumSaison { get => numSaison; set => numSaison = value; }
         public string SortieSaison { get => sortieSaison; set => sortieSaison = value; }
         public int IdSerie { get => idSerie; set => idSerie = value; }
+        public string StrSaison { get => strSaison; set => strSaison = value; }
     }
 }
