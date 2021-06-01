@@ -1,52 +1,52 @@
-@string/appbar_scrolling_view_behavior;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
-alpha;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromleft.xml
-alpha;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoleft.xml
+alpha;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromleft.xml
+alpha;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoleft.xml
 android.support.design.widget.TabLayout;obj\Debug\100\res\layout\tabbar.xml
 android.support.v7.widget.Toolbar;obj\Debug\100\res\layout\toolbar.xml
-androidx.appcompat.widget.Toolbar;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\fallbacktoolbardonotuse.xml
-androidx.appcompat.widget.Toolbar;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
-androidx.appcompat.widget.Toolbar;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\shellcontent.xml
-androidx.appcompat.widget.Toolbar;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\toolbar.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\shellcontent.xml
-attr;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\attrs.xml
+androidx.appcompat.widget.Toolbar;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\shellcontent.xml
+attr;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\attrs.xml
 background;obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
-cache-path;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\100\res\values\colors.xml
-com.google.android.material.appbar.AppBarLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\flyoutcontent.xml
-com.google.android.material.appbar.AppBarLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
-com.google.android.material.appbar.AppBarLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\shellcontent.xml
-com.google.android.material.bottomnavigation.BottomNavigationView;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\bottomtablayout.xml
-com.google.android.material.tabs.TabLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\fallbacktabbardonotuse.xml
-com.google.android.material.tabs.TabLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
-com.google.android.material.tabs.TabLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\tabbar.xml
-declare-styleable;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\attrs.xml
-external-cache-path;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+com.google.android.material.appbar.AppBarLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\tabbar.xml
+declare-styleable;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\attrs.xml
+external-cache-path;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\bottomtablayout.xml
-item;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\styles.xml
-LinearLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\bottomtablayout.xml
-paths;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-resources;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\attrs.xml
-resources;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\strings.xml
-resources;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\styles.xml
+FrameLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\bottomtablayout.xml
+item;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\styles.xml
+LinearLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\bottomtablayout.xml
+paths;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\attrs.xml
+resources;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\strings.xml
+resources;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\styles.xml
 resources;obj\Debug\100\res\values\colors.xml
 resources;obj\Debug\100\res\values\styles.xml
-set;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromleft.xml
-set;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromright.xml
-set;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoleft.xml
-set;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoright.xml
-string;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\strings.xml
-style;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\styles.xml
+set;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromleft.xml
+set;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromright.xml
+set;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoleft.xml
+set;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoright.xml
+string;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\strings.xml
+style;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\values\styles.xml
 style;obj\Debug\100\res\values\styles.xml
-translate;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromleft.xml
-translate;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromright.xml
-translate;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoleft.xml
-translate;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
-xamarin.forms.platform.android.ShellFlyoutLayout;C:\PUTE\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\flyoutcontent.xml
+translate;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromleft.xml
+translate;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\enterfromright.xml
+translate;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoleft.xml
+translate;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix.Android\obj\Debug\100\lp\47\jl\res\layout\flyoutcontent.xml

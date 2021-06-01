@@ -29,3 +29,18 @@ C:\PUTE\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.dll
 C:\PUTE\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\ref\NetNotFlix.dll
 C:\PUTE\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.pdb
 C:\PUTE\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\LogInUser.xaml.g.cs
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\NetNotFlix.deps.json
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\NetNotFlix.dll
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\ref\NetNotFlix.dll
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\bin\Debug\netstandard2.0\NetNotFlix.pdb
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\LogInUser.xaml.g.cs
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\PageSaisonANDEpisode.xaml.g.cs
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.AssemblyInfoInputs.cache
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.AssemblyInfo.cs
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.csproj.CoreCompileInputs.cache
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\XamlC.stamp
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.dll
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\ref\NetNotFlix.dll
+D:\_GuillaumeMansutti\GIT\legendary-guacamole\PPE - Gestion de série\Appli C#\NetNotFlix\NetNotFlix\obj\Debug\netstandard2.0\NetNotFlix.pdb

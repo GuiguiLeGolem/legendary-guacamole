@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PUTE\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj": {}
+    "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj": {}
   },
   "projects": {
-    "C:\\PUTE\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj": {
+    "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PUTE\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj",
+        "projectUniqueName": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj",
         "projectName": "NetNotFlix.Android",
-        "projectPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj",
-        "packagesPath": "C:\\Users\\Herotrix\\.nuget\\packages\\",
-        "outputPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix.Android\\obj\\",
+        "projectPath": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix.Android\\NetNotFlix.Android.csproj",
+        "packagesPath": "C:\\Users\\gmansutti\\.nuget\\packages\\",
+        "outputPath": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Herotrix\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gmansutti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -34,8 +32,8 @@
         "frameworks": {
           "monoandroid10.0": {
             "projectReferences": {
-              "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj": {
-                "projectPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj"
+              "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj": {
+                "projectPath": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj"
               }
             }
           }
@@ -60,22 +58,20 @@
         }
       }
     },
-    "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj": {
+    "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
+        "projectUniqueName": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
         "projectName": "NetNotFlix",
-        "projectPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
-        "packagesPath": "C:\\Users\\Herotrix\\.nuget\\packages\\",
-        "outputPath": "C:\\PUTE\\NetNotFlix\\NetNotFlix\\obj\\",
+        "projectPath": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix\\NetNotFlix.csproj",
+        "packagesPath": "C:\\Users\\gmansutti\\.nuget\\packages\\",
+        "outputPath": "D:\\_GuillaumeMansutti\\GIT\\legendary-guacamole\\PPE - Gestion de série\\Appli C#\\NetNotFlix\\NetNotFlix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Herotrix\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gmansutti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -135,7 +131,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
